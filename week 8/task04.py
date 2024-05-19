@@ -1,4 +1,3 @@
-# Task-4
 def search_sightings(taxonid, city):
     # Stub implementation
     return [{ "properties": { "TaxonID":"860","StartDate":"1999-11-15","LocalityDetails":"Tinaroo","SiteCode":"INCIDENTAL" } }]
